@@ -1,4 +1,9 @@
-# 2048小游戏-C语言版
+<h1 align="center">2048小游戏-C语言版</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/-2048小游戏-important" alt="">
+	<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="">
+	<img src="https://img.shields.io/badge/license-MIT-green" alt="">
+</p>
 
 ### 主函数main.c
 ```c
